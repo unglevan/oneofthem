@@ -6,4 +6,5 @@
  */
 //add some comment
 echo phpinfo();
+//add to merge
 ?>
